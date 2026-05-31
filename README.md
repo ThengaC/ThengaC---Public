@@ -311,7 +311,7 @@ Graph  save ചെയ്തു -->  parabola.svg  (browser - ൽ തുറക്
 ```
 #### **Generated SVG :**  
 <p align="center">
-  <img src="test/parabola.svg" alt="Parabola graph" width="480" />
+  <img src="parabola.svg" alt="Parabola graph" width="480" />
 </p>
 
 ---
