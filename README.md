@@ -439,16 +439,20 @@ nee oru mandana !!
 ## Project Structure
 ```
 thengaC/
-├── README.md                    # This file
-├── .git/                        # Git repository metadata
-│
-├── source/                     # Compiler source code
-│   ├── thengac_main.cpp        # Main compiler (lexer, parser, codegen)
-│   └── thenga_runtime.c        # Runtime library (printf, math functions)
-│
-└── test/                       # Test suite & examples
-    ├── test.tc                 # Comprehensive feature test
-    └── build.sh                # Build script for tests
+├── ThengaC---Public                      # This is a public repo
+│        ├── LICENCE                      # Project LICENSE
+│        ├── README.md                    # README file
+│        ├── .git/                        # Git repository metadata
+│        └── parabola.svg                 # Generated SVG result
+└── ThengaC---Private                     # This is a private repo
+         ├── source/                      # Compiler source code
+         │   ├── .git/                    # Git repository metadata
+         │   ├── thengac_main.cpp         # Main compiler (lexer, parser, codegen)
+         │   └── thenga_runtime.c         # Runtime library (printf, math functions)
+         │
+         └── test/                        # Test suite & examples
+             ├── test.tc                  # Comprehensive feature test
+             └── build.sh                 # Build script for tests
 
 ```
 
@@ -467,7 +471,6 @@ thengaC/
    - Follow the existing code style (LLVM C++ conventions)
    - Add tests in `test/` directory
    - Update this README if adding new keywords/features
-   ```
 
 4. **Submit Pull Request**
    - Provide detailed description of changes
