@@ -45,7 +45,7 @@
 ### Copyright & License Notice
 
 ```
-Copyright © 2026 Nidhin (All Rights Reserved)
+Copyright © 2026 Nidhin M Mohan (All Rights Reserved)
 ThengaC Compiler - Mathematical Analysis & Visualization Tool
 
 This software is proprietary and confidential. Unauthorized copying,
