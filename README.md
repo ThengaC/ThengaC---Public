@@ -10,7 +10,6 @@
 ## Table of Contents
 1. [Overview](#overview)
 2. [Access & Licensing](#access--licensing)
-3. [Quick Links](#-quick-links)
 4. [Special Purpose & Features](#special-purpose--features)
 5. [How It Works](#how-it-works)
 6. [Keywords & Language Syntax](#keywords--language-syntax)
@@ -59,15 +58,6 @@ All intellectual property rights are reserved by the copyright holder.
 - ❌ Redistribution without explicit written permission is prohibited
 - ❌ Reverse engineering or decompilation is not allowed
 - ✅ Modifications are allowed only for authorized contributors with proper attribution
-
----
-
-## 🔗 Quick Links
-
-- 🔒 [Private Repo](https://github.com/ThengaC/ThengaC---Private) — Source & tests
-- 📧 Contact — For access requests
-- 💡 Ideas — Discuss in private repo
-
 ---
 
 ## Special Purpose & Features
