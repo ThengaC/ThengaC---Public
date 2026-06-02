@@ -327,6 +327,7 @@ sudo apt-get update
 sudo apt-get install -y build-essential
 sudo apt-get install -y llvm-14 llvm-14-dev
 sudo apt-get install -y clang-14
+sudo ln -s /usr/bin/llvm-config-14 /usr/bin/llvm-config
 ```
 
 ### Verify Installation
